@@ -1,0 +1,624 @@
+TAREAS A REALIZAR EN EL PROYECTO
+
+1-crear el repositorio en el GITHUB: playlist
+2-Clonammos el repositorio Visual Estudio Code
+3-dar un nombre a la playlist
+4-buscar 10 canciones de la playlist con sus letras e imagenes
+5-creo las carpetas necesarias: asset/img, asset/audio, css/
+6-seleccionar la paleta de colores. Elegir 2 paletas de colores
+7-crear el archivo html
+
+
+
+
+i see a dreamer:https://www.youtube.com/watch?v=SXJGTnVfJic (CG5)
+
+As the wind whips 'round
+I take a breath for victory
+Wanna play tag, or wave your white flag?
+'Cause you'll never touch me
+King of hearts, all in (all in)
+It's not a sin to wanna win (sin to wanna win)
+Can't see me flying like a bee, black and yellow energy
+Only me on my team, naturally
+I see a dreamer
+Over there by the water
+But I got no, but I got no
+Kakorrhaphiophobia
+I see a dreamer
+And he's ripe for the slaughter
+But I got no, but I got no
+Kakorrhaphiophobia
+Phobia, phobia, phobia, ow
+I hear battalions sing of my demise
+But I don't know the words (what?)
+I take a road of my own making
+On a journey, no returning
+Whoa, whoa
+That's how it goes
+They've drawn the battle line
+And I see fire in their eyes
+Na na na na na na
+I'm better off not listening, huh
+Na na na na na na
+I've got my own song to sing
+We're flying like a bee, black and yellow energy
+Only me on my team, naturally yeah
+I see a dreamer
+Over there by the water
+But I got no, but I got no
+Kakorrhaphiophobia
+I see a dreamer
+And he's ripe for the slaughter
+But I got no, but I got no
+Kakorrhaphiophobia
+Phobia, phobia, phobia (phobia)
+Ooh
+My boat is full, why don't you swim?
+Enjoy my fortress, I'll be right in
+I stare a hole through danger's soul
+We all know
+I can do this, eyes closed
+I refuse to fail
+So heed this cautionary tale
+You've got dragons, my little friend
+You'll conquer them in the end
+If you can, haha
+I see a dreamer
+Over there by the water
+Oh, but I got no, but I got no
+Kakorrhaphiophobia
+I see a dreamer
+And he's ripe for the slaughter
+Oh, but I got no, but I got no
+Kakorrhaphiophobia
+Phobia, phobia, phobia
+Huh, huh
+Phobia, phobia, phobia
+
+man of the year:https://www.youtube.com/watch?v=_YwppMLPoPg (Juice WRLD)
+
+Cheers
+Sippin' codeine like it's beer
+I'm in London, so I'm screaming cheers
+Man of the year, still got problems
+Lookin' in the mirror, you look awful
+Talkin' to myself, do it too often
+JK, Juice WRLD, you're so awesome
+I'm running up funds
+Bottle full of pills, let's have fun
+No cheap thrills, only rich ones
+Fire drills, hotter than the sun
+My ups and downs
+I'll jot them down
+In London town
+Cheers to the golden years
+Let's raise our hands, let's sing and dance
+I know my lyrics saved you, I know my lyrics saved you
+Let's raise our hands and sing and dance
+I know my lyrics saved you, I know I helped you break through
+They say life's a puzzle, all my pieces together
+But from the way I'm movin' up
+I'll prolly be piecing forever
+I date a bad bitch, she'll be young and decent forever
+Even with fake tits, these other hoes, she's decent forever
+My lady said she saw a baddie in the hotel lobby
+Well love, let's fuck her together
+We got the world to our backs, give a fuck
+Never have, middle fingers up, we screaming fuck 'em forever
+My ups and downs
+I'll jot them down
+In London town
+Cheers to the golden years
+My ups and downs
+I'll jot them down
+In London town
+Cheers to the golden years
+Let's raise our hands, let's sing and dance
+I know my lyrics saved you, I know my lyrics saved you
+Let's raise our hands and sing and dance
+I know my lyrics saved you, I know I helped you break through
+
+cigarrettes:https://www.youtube.com/watch?v=Sis_JJZoAfQ (Juice WRLD)
+
+Na-na-na-na-na-na-na, oh, oh
+Smoke cigarettes, cancer in the chest like cardiac arrest
+I've been feeling stressed, tryna find ways to impress her
+Showing her that I love her, tryna show her a effort
+Gotta keep it together-er
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+Oh, oh, this a love letter that I wrote
+She keep me up when I'm feeling low
+She's my overdose-dose-dose
+Being heartbroken is so last year
+Having breakdowns and she wiping my tears
+I've been feeling fine ever since she been mine
+In other words, yeah, she changed my life
+Open up like a book, let her read me
+One call away if she ever needs me
+If I ever fall apart, I know she gon' keep me together
+Treat me like a promise, baby, keep me forever
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I'ma meet you back at the chorus
+P.S. baby girl, you're so gorgeous
+Smoke cigarettes, cancer in the chest like cardiac arrest
+I've been feeling stressed, tryna find ways to impress her
+Showing her that I love her, tryna show her a effort
+Gotta keep it together-er
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+As I find my way to the bottom of this bottle
+She's in my head, please don't get me started
+I could talk about her all day
+She's on my mind, always
+As I find my way to the bottom of this bottle
+She's in my head, please don't get me started
+Thinking bout her all day
+She's on my mind, always
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I'ma meet you back at the chorus
+P.S baby girl, you're so gorgeous
+Smoke cigarettes, cancer in the chest like cardiac arrest
+I've been feeling stressed, tryna find ways to impress her
+Showing her that I love her, tryna show her a effort
+Gotta keep it together-er
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+She picks my heart off of the floor
+I'm addicted, yeah, I need me some more
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+I don't wan' be lonely no more, oh
+
+sunflower:https://www.youtube.com/watch?v=ApXoWvfEYVU (PostMalone)
+
+Ayy, ayy, ayy, ayy (ooh)
+Ooh, ooh, ooh, ooh (ooh)
+Ayy, ayy
+Ooh, ooh, ooh, ooh
+Needless to say, I keep her in check
+She was a bad-bad, nevertheless (yeah)
+Callin' it quits now, baby, I'm a wreck (wreck)
+Crash at my place, baby, you're a wreck (wreck)
+Needless to say, I'm keeping her in check
+She was all bad-bad, nevertheless
+Callin' it quits now, baby, I'm a wreck
+Crash at my place, baby, you're a wreck
+Thinkin' in a bad way, losin' your grip
+Screamin' at my face, baby, don't trip
+Someone took a big L, don't know how that felt
+Lookin' at you sideways, party on tilt
+Ooh-ooh-ooh
+Some things you just can't refuse
+She wanna ride me like a cruise
+And I'm not tryna lose
+Then you're left in the dust
+Unless I stuck by ya
+You're the sunflower
+I think your love would be too much
+Or you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+You're the sunflower
+Every time I'm leavin' on you (ooh)
+You don't make it easy, no (no, no)
+Wish I could be there for you
+Give me a reason to, oh (oh)
+Every time I'm walkin' out
+I can hear you tellin' me to turn around
+Fightin' for my trust and you won't back down
+Even if we gotta risk it all right now, oh (now)
+I know you're scared of the unknown ('known)
+You don't wanna be alone (alone)
+I know I always come and go (and go)
+But it's out of my control
+And you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+I think your love would be too much
+Or you'll be left in the dust
+Unless I stuck by ya
+You're the sunflower
+You're the sunflower (yeah)
+
+Godzilla (Eminem)
+
+Ugh, you're a monster
+I can swallow a bottle of alcohol and I'll feel like Godzilla
+Better hit the deck like the card dealer
+My whole squad's in here, walkin' around the party
+A cross between a zombie apocalypse and B-Bobby, "The
+Brain" Heenan which is probably the same reason I wrestle with mania
+Shady's in this bitch, I'm posse'd up
+Consider it to cross me a costly mistake
+If they sleepin' on me, the hoes better get insomnia, ADHD, Hydroxycut
+Pass the Courvoisi' (hey, hey)
+In AA, with an AK, melee, finna set it like a playdate
+Better vacate, retreat like a vacay, mayday (ayy)
+This beat is cray-cray, Ray J, H-A-H-A-H-A
+Laughin' all the way to the bank, I spray flames
+They cannot tame or placate the (ayy)
+Monster
+You get in my way? I'ma feed you to the monster (yeah)
+I'm normal during the day, but at night turn to a monster (yeah)
+When the moon shines like Ice Road Truckers
+I look like a villain outta those blockbusters
+Godzilla, fire spitter, monster
+Blood on the dance floor, and on the Louis V carpet
+Fire, Godzilla, fire, monster
+Blood on the dance floor, and on the Louis V carpet
+I'm just a product of Slick Rick, at Onyx, told 'em lick the balls
+Had 'em just appalled at so many things that pissed 'em off
+It's impossible to list 'em all
+And in the midst of all this
+I'm in a mental hospital with a crystal ball
+Tryna see, will I still be like this tomorrow?
+Risperdal, voices whisper
+My fist is balled back up against the wall, pencil drawn
+This is just the song to go ballistic on
+You just pulled a pistol on the guy with the missile launcher
+I'm just a Loch Ness, the mythological
+Quick to tell a bitch screw off like a fifth of Vodka
+When you twist the top of the bottle, I'm a
+Monster
+You get in my way? I'ma feed you to the monster (yeah)
+I'm normal during the day, but at night turn to a monster (yeah)
+When the moon shines like Ice Road Truckers
+I look like a villain outta those blockbusters
+Godzilla, fire spitter, monster
+Blood on the dance floor, and on the Louis V carpet
+Fire, Godzilla, fire, monster
+Blood on the dance floor, and on the Louis V carpet
+If you never gave a damn, raise your hand
+'Cause I'm about to set trip, vacation plans
+I'm on point, like my index is, so all you will ever get is
+The motherfuckin' finger (finger), prostate exam ('xam)
+How can I have all these fans and perspire?
+Like a liar's pants, I'm on fire
+And I got no plans to retire and I'm still the man you admire
+These chicks are spazzin' out, I only get more handsome and flier
+I got 'em passin' out like what you do, when you hand someone flyers
+What goes around, comes around just like the blades on a chainsaw
+'Cause I caught the flaps of my dollar stack
+Right off the bat like a baseball, like Kid Ink
+Bitch, I got them racks with so much ease that they call me Diddy
+'Cause I make bands and I call getting cheese a cakewalk (cheesecake)
+Bitch, I'm a player, I'm too motherfuckin' stingy for Cher
+Won't even lend you an ear, ain't even pretendin' to care
+But I tell a bitch I'll marry her, if she'll bury her
+Face on my genital area, the original Richard Ramirez
+Christian Rivera
+'Cause my lyrics never sit well, so they wanna give me the chair
+Like a paraplegic, and it's scary, call it Harry Carry
+'Cause every Tom and Dick and Harry
+Carry a Merriam motherfuckin' dictionary
+Got 'em swearin' up and down, they can't spit, this shit's hilarious
+It's time to put these bitches in the obituary column
+We wouldn't see eye to eye with a staring problem
+Get the shaft like a steering column (Monster)
+Trigger happy, pack heat, but it's black ink
+Evil half of the Bad Meets Evil
+That means take a back seat
+Take it back to Fat Beats with a maxi single
+Look at my rap sheets, what attracts these people
+Is my gangster, bitch, like Apache with a catchy jingle
+I stack these chips, you barely got a half-eaten Cheeto
+Fill 'em with the venom, and eliminate 'em
+Other words, I Minute Maid 'em
+I don't want to hurt 'em, but I did 'em in a fit of rage
+I'm murderin' again, nobody will evade
+I'm finna kill 'em and dump all the fuckin' bodies in a lake
+Obliteratin' everything, incineratin' and renegade 'em
+I'm here to make anybody who want it with the pen afraid
+But don't nobody want it but they're gonna get it anyway
+'Cause I'm beginnin' to feel like I'm mentally ill
+I'm Atilla, kill or be killed, I'm a killer, be the vanilla gorilla
+You're bringin' the killer within me, out of me
+You don't want to be the enemy of the demon
+Who went in me, and be on the receiving of me, what stupidity it'd be
+Every bit of me is the epitome of a spitter
+When I'm in the vicinity, motherfucker, you better duck
+Or you finna be dead the minute you run into me
+A hundred percent of you is a fifth of a percent of me
+I'm 'bout to fuckin' finish you bitch, I'm unfadable
+You wanna battle, I'm available, I'm blowin' up like an inflatable
+I'm undebatable, I'm unavoidable, I'm unevadable
+I'm on the toilet bowl
+I got a trailer full of money and I'm paid in full
+I'm not afraid to pull a-, man, stop
+Look what I'm plannin' (haha)
+
+enemy (Imagine Dragons)
+
+I wake up to the sounds of the silence that allows
+For my mind to run around with my ear up to the ground
+I'm searching to behold the stories that are told
+When my back is to the world that was smiling when I turned
+Tell you you're the greatest
+But once you turn they hate us
+Oh, the misery
+Everybody wants to be my enemy
+Spare the sympathy
+Everybody wants to be my enemy
+(Look out for yourself)
+My enemy (look, look, look, look)
+(Look out for yourself)
+But I'm ready
+Your words up on the wall as you're praying for my fall
+And the laughter in the halls and the names that I've been called
+I stack it in my mind and I'm waiting for the time
+When I show you what it's like to be words spit in a mic
+Tell you you're the greatest
+But once you turn they hate us (huh)
+Oh, the misery
+Everybody wants to be my enemy
+Spare the sympathy
+Everybody wants to be
+My enemy (look, look, look, look)
+(Look out for yourself)
+My enemy (look, look, look, look)
+(Look out for yourself)
+Uh, look
+Okay, I'm hoping that somebody pray for me
+I'm praying that somebody hope for me
+I'm staying where nobody 'posed to be
+P-P-Posted, being a wreck of emotions
+Ready to go whenever, just let me know
+The road is long, so put the pedal into the floor
+The enemy on my trail, my energy unavailable
+I'ma tell 'em hasta luego
+They wanna plot on my trot to the top
+I've been outta shape, thinkin' out the box, I'm an astronaut
+I blasted off the planet rock to cause catastrophe
+And it matters more because I had it not
+Had I thought about wreaking havoc on an opposition
+Kinda shocking they wanted static with precision, I'm automatic
+Quarterback, I ain't talkin' sacking
+Pack it, pack it up, I don't panic
+Batter, batter up, who the baddest?
+It don't matter 'cause we at ya throat
+Everybody wants to be my enemy
+Spare the sympathy
+Everybody wants to be
+My enemy
+Oh, the misery
+Everybody wants to be my enemy
+Spare the sympathy
+Everybody wants to be my enemy
+Pray it away, I swear
+I'll never be a saint, no way
+My enemy
+Pray it away, I swear
+I'll never be a saint
+
+the search (NF)
+
+"Hey, Nate, how's life?"
+I don't know, it's alright
+I've been dealin' with some things like every human being
+And really didn't sleep much last night (last night)
+"I'm sorry", that's fine
+I just think I need a little me time
+I just think I need a little free time
+Little break from the shows and the bus rides (bus rides), yeah
+Last year I had a breakdown
+Thoughts tellin' me I'm lost gettin' too loud
+Had to see a therapist, then I found out
+Somethin' funny's goin' on up in my house
+Yeah, I started thinkin' maybe I should move out
+You know, pack my car, take a new route
+Clean up my yard, get the noose out
+Hang up my heart, let it air out (air out)
+I've been searchin'
+"What does that mean, Nate?"
+I've been learning
+Grabbin' my keepsakes, leavin' my burdens
+Well, I brought a few with me, I'm not perfect
+Lookin' at the view like, this concerns me
+Pickin' up the cues, right? I'm quite nervous
+Hate it when I lose sight, life gets blurry
+And things might hurt me
+It's prolly gonna be a long journey, but hey (but hey)
+It's worth it, though
+Cold world out there, kids, grab your coats
+Been a minute, I know, now I'm back to roam
+Lookin' for the antidote to crack the code
+Pretty vivid, I admit it, I'm in classic mode
+Don't need pity given to me, but I can't condone
+Talkin' down to me, I'ma have to crack your nose for crackin' jokes
+I'm lookin' for the map to hope, you seen it? (You seen it?)
+Been makin' a whole lot of changes
+Wrote a song about that, you should play it
+I get scared when I walk on these stages
+I look at the crowd and see so many faces, yeah
+That's when I start to get anxious
+That's when my thoughts can be dangerous
+That's when I put on my makeup and drown in self-hatred
+Forget what I'm saying, and
+Where'd the beat go?
+Oh, ain't that somethin'?
+Drums came in, you ain't see that comin'
+Hands on my head, can't tell me nothin'
+Got a taste of the fame, had to pump my stomach
+Throw it back up like I don't want it
+Wipe my face, clean up my vomit
+OCD, tryna push my buttons
+I said don't touch it, now y'all done it
+I can be critical, never typical
+Intricate with every syllable, I'm a criminal
+Intimate, but never political, pretty visual
+Even if you hate it, I'll make it feel like you're in it, though
+You call me what you wanna, but never call me forgettable
+Leave you deep in thought, I could never swim in the kiddie pool
+Way that I been thinkin' is cinematic, it's beautiful
+Man, I don't know if I'm makin' movies or music videos (videos, videos, videos)
+Yeah, the sales can rise
+Doesn't mean much though when your health declines
+See, we've all got somethin' that we trapped inside
+That we try to suffocate, you know, hopin' it dies
+Try to hold it underwater but it always survives
+Then it comes up out of nowhere like an evil surprise
+Then it hovers over you to tell you millions of lies
+You don't relate to that? Must not be as crazy as I am
+The point I'm makin' is the mind is a powerful place
+And what you feed it can affect you in a powerful way
+It's pretty cool, right? Yeah, but it's not always safe
+Just hang with me, this'll only take a moment, okay?
+Just think about it for a second, if you look at your face
+Every day when you get up and think you'll never be great
+You'll never be great, not because you're not, but the hate
+Will always find a way to cut you up and murder your faith (woo!)
+I am developin', take a look at the benefits
+Nothin' to meddle with, I can never be delicate
+Am I even relevant? That depends how you measure it
+Take a measurement, then bag it up and give me the evidence
+Pretty evident, dependable can never be tentative
+I'm a gentleman, depending on if I think you're genuine
+Pretty elegant, but not afraid to tell you to get a grip
+Proper etiquette, I keep it to myself when I celebrate, ah (ah)
+It's that time again
+Better grab your balloons and invite your friends
+Seatbelts back on, yeah, strap 'em in
+Look at me, everybody, I'm smilin' big
+On a road right now that I can't predict
+Tell me "Tone that down, " but I can't resist
+Y'all know that sound, better raise your fist
+The search begins, I'm back, so enjoy the trip, huh
+
+Ciudad magica (Tan bionica)
+
+Intento seguirte pero no doy más
+Sospecho que el tiempo se nos va a acabar
+Estás algo loca y sos tan clásica
+Dejá que la noche nos proponga más
+Decime que sí, hacé como yo, a ver si sos tan genial
+Persigo tus ojos por la capital
+Me gusta que seas tan dramática
+Tus ojos dibujan una eternidad
+Y está muy bien así
+Por hoy no pienses más
+Yo sé que lo necesitás
+Me quedo con vos, yo sigo de largo, voy a buscarte
+Qué noche mágica ciudad de Buenos Aires
+Se queman las horas, de esta manera nadie me espera
+Cómo me gusta verte caminar así
+Me quedo con vos, yo sigo de largo, voy a buscarte
+Me mata cómo te movés por todas partes
+Se queman las horas, de esta manera nadie me espera
+Cómo me gusta verte caminar así
+Algunos momentos de esta eternidad
+Me son suficientes para recordar
+Tus piernas bailando son tan mágicas
+La noche se presta para mucho más
+Y está muy bien así
+Por hoy no pienses más
+Yo sé que lo necesitás
+Me quedo con vos, yo sigo de largo, voy a buscarte
+Qué noche mágica ciudad de Buenos Aires
+Se queman las horas, de esta manera nadie me espera
+Cómo me gusta verte caminar así
+Me quedo con vos, yo sigo de largo, voy a buscarte
+Me mata cómo te movés por todas partes
+Se queman las horas, de esta manera nadie me espera
+Cómo me gusta verte caminar así
+Qué noche mágica ciudad de Buenos Aires
+Cómo me gusta verte caminar así
+Me quedo con vos, yo sigo de largo, voy a buscarte
+Me mata cómo te movés por todas partes.
+Se queman las horas, de esta manera nadie me espera
+Cómo me gusta verte caminar así.
+
+vamonos a marte (Kevin Kaarl)
+
+Desde el cielo todo es más bonito
+Déjame llevarte a las estrellas otra vez
+Como la noche de ayer
+Vámonos a Marte donde nadie vaya a buscarte
+Ni a ti, ni a mí
+Donde todo es más callado y solitario pa' los dos
+Donde no hay nadie más, que tú y yo
+Dejemos la Tierra llena de gente tan mierda
+Que nos quiere aplastar
+Vámonos de viaje a las estrellas y a Marte
+A olvidar nuestros problemas tan punzantes
+Contemplemos las constelaciones
+Y todas nuestras visiones que nos quitan el vacío
+Que sentimos en la Tierra
+Toma mi mano y vámonos de aquí
+Ponte tu suéter gris y comencemos a huir
+Vámonos a Marte donde nadie vaya a buscarte
+Ni a ti, ni a mí
+Donde todo es más callado y solitario pa' los dos
+Donde no hay nadie más, que tú y yo
+
+toda esta ciudad (Kevin Kaarl)
+
+Odias todita esta ciudad
+La gente te ha obligado a despedir
+Días contados pa' escapar
+Si lo haces, recuerda, estaré aquí
+Y no es mucho
+No soy tan distinto a los demás, mi niña
+Pero si te vas, recuerda
+Estaré aquí
+Mm-mm
+Te ha mentido toda esta ciudad
+¿Qué han hecho? Si eres de admirar
+Y mis brazos son para cuidar
+Mi amor
+Estaré aquí
+Siente mi alma, siempre fue pa' ti
+Te amo más de lo que tú crees
+Cuando arda toda esta ciudad
+Ya fue
+Y estaré aquí
+Si te han visto
+Le has robado el brillo a la luna y a Venus
+Me has amado en guerra, dulzura
+Llevas tu luz
+Y no es mucho
+No soy tan distinto a los demás, mi niña
+Pero si te vas, recuerda
+Estaré aquí
+Mm-mm
+Te ha mentido toda esta ciudad
+¿Qué han hecho? Si eres de admirar
+Y mis brazos son para cuidar
+Mi amor
+Estaré aquí
+Siente mi alma, siempre fue pa' ti
+Te amo más de lo que tú crees
+Cuando arda toda esta ciudad
+Ya fue
+Yo estaré aquí
+
+
+
+Paleta de Colores
+
+#EB0101
+
+#000000
