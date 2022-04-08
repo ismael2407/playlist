@@ -1,12 +1,14 @@
+main {
 
+    display: flex;
 
-
-
-
+    justify-content: center
+}
 
 
 body {
-background-color: black;
+    background-color: black;
+    color: #EB0101;
 
 }
 
@@ -17,4 +19,37 @@ th {
 td {
 
     color: #EB0101;
+    border-color: #EB0101;
+    border-style: solid;
+   
+}
+
+tr {
+    color: #EB0101;
+
+}
+
+table {
+
+    background-color: black;
+    width: 80%;
+    border-color: #EB0101;
+    border-top: 10px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+h1{
+text-align: center;
+    color: white;
+}
+header{
+background-color:black;
+    height: 200px;
+}
+
+footer{
+text-align: center;
+background-color:black;
+height: 200px;
 }
