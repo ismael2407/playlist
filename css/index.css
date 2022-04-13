@@ -1,8 +1,9 @@
 main {
 
     display: flex;
-
-    justify-content: center
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -21,12 +22,16 @@ td {
     color: #EB0101;
     border-color: #EB0101;
     border-style: solid;
-   
+
 }
 
 tr {
     color: #EB0101;
 
+}
+
+p{
+    text-align: center;
 }
 
 table {
@@ -39,17 +44,18 @@ table {
     border-collapse: collapse;
 }
 
-h1{
-text-align: center;
+h1 {
+    text-align: center;
     color: white;
 }
-header{
-background-color:black;
+
+header {
+    background-color: black;
     height: 200px;
 }
 
-footer{
-text-align: center;
-background-color:black;
-height: 200px;
+footer {
+    text-align: center;
+    background-color: black;
+    height: 200px;
 }
