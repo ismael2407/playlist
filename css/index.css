@@ -1,3 +1,12 @@
+body {
+    background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/21/10/gowQNX.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
 main {
 
     display: flex;
@@ -10,11 +19,12 @@ main {
 body {
     background-color: black;
     color: #EB0101;
-
+    
 }
 
 th {
     color: #EB0101;
+
 }
 
 td {
@@ -22,7 +32,7 @@ td {
     color: #EB0101;
     border-color: #EB0101;
     border-style: solid;
-
+    text-align: center;
 }
 
 tr {
@@ -30,7 +40,7 @@ tr {
 
 }
 
-p{
+p {
     text-align: center;
 }
 
@@ -50,12 +60,19 @@ h1 {
 }
 
 header {
-    background-color: black;
+    background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/21/10/gowQNX.jpg);
     height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 
 footer {
     text-align: center;
-    background-color: black;
+ background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/21/10/gowQNX.jpg);
     height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
